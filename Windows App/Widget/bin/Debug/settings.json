@@ -3,5 +3,5 @@
   "Ypos": 600,
   "Font": "Arial",
   "Color": "White",
-  "Port": "COM5", // adf
+  "Port": "COM5"
 }

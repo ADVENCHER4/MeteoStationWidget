@@ -16,3 +16,12 @@ void loop()
   Serial.println(outputData);
   delay(2000);
 }
+
+
+
+
+
+
+
+
+

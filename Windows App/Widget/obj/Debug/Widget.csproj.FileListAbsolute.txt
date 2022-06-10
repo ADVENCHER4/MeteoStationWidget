@@ -35,7 +35,6 @@ E:\Docs\C#\Widget\Widget\bin\Debug\System.ValueTuple.xml
 E:\Docs\C#\Widget\Widget\obj\Debug\Widget.exe.config
 E:\Docs\C#\Widget\Widget\obj\Debug\Widget.csproj.CopyComplete
 E:\Docs\C#\Widget\Widget\bin\Debug\settings.json
-E:\Docs\C#\Widget\Windows App\Widget\bin\Debug\settings.json
 E:\Docs\C#\Widget\Windows App\Widget\bin\Debug\Widget.exe.config
 E:\Docs\C#\Widget\Windows App\Widget\bin\Debug\Widget.exe
 E:\Docs\C#\Widget\Windows App\Widget\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
@@ -72,3 +71,4 @@ E:\Docs\C#\Widget\Windows App\Widget\obj\Debug\Widget.csproj.CopyComplete
 E:\Docs\C#\Widget\Windows App\Widget\obj\Debug\Widget.exe
 E:\Docs\C#\Widget\Windows App\Widget\obj\Debug\Widget.pdb
 E:\Docs\C#\Widget\Windows App\Widget\bin\Debug\Widget.pdb
+E:\Docs\C#\Widget\Windows App\Widget\bin\Debug\settings.json

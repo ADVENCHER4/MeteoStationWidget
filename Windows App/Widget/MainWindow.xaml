@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Widget"
         mc:Ignorable="d"
-        Title="MainWindow" Height="220" Width="400" AllowsTransparency="True" Background="Transparent"
+        Title="MainWindow" Height="220" Width="400" AllowsTransparency="True" Background="#2b2b2b"
         WindowStyle="None"
         MouseLeftButtonDown="MoveWindow" ShowInTaskbar="False" ResizeMode="NoResize" >
     <Grid x:Name="MainGrid">
